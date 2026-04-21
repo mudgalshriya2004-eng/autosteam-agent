@@ -14,10 +14,13 @@ python main.py
 Step 4: Start chatting
 Type messages like:
 
-hi
+hi 
+
 pricing
-I want Pro plan
-thank you
+
+i want pro plan
+
+thank yoy
 
 Type exit to stop.
 
