@@ -20,7 +20,7 @@ pricing
 
 i want pro plan
 
-thank yoy
+thank you
 
 Type exit to stop.
 
